@@ -1,5 +1,5 @@
 TaskVault 🔐  
-A secure and modular Flask-based backend API for managing personal tasks — featuring user authentication, CRUD functionality, and PostgreSQL integration. Ideal for showcasing backend development skills in RESTful design, JWT Auth, and API deployment.
+A secure and modular Flask-based backend API for managing personal tasks featuring user authentication, CRUD functionality, and PostgreSQL integration. Ideal for showcasing backend development skills in RESTful design, JWT Auth, and API deployment.
 
 ---
 
