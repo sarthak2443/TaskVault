@@ -30,15 +30,11 @@ taskvault/
 ├── app/
 │ ├── init.py
 │ ├── routes.py
-│ ├── auth.py (Coming Soon)
-│ └── models.py (Coming Soon)
+│ ├── auth.py 
+│ └── models.py 
 ├── run.py
 ├── requirements.txt
 ├── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
